@@ -1,4 +1,4 @@
-#iterables and iterator
+#iterable and iterator
 
 number=[1,2,3,4,5,6] #list,tuple,string-----iterables
 squares=map(lambda a:a**2,number) #iterator
